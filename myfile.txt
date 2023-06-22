@@ -1,0 +1,16 @@
+INFO 2023-06-22T06:15:01Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-v7jgq
+INFO 2023-06-22T06:16:00Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-vpkrk
+INFO 2023-06-22T06:16:33Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-9pl95
+INFO 2023-06-22T06:17:17Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-hbklc
+INFO 2023-06-22T06:17:54Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-hbklc
+INFO 2023-06-22T06:19:55Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-zd4r5
+INFO 2023-06-22T06:19:55Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-nm6zn
+INFO 2023-06-22T06:21:06Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-nm6zn
+INFO 2023-06-22T06:21:06Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-v7jgq
+INFO 2023-06-22T06:22:03Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-llfmm
+INFO 2023-06-22T06:22:51Z [resource.labels.clusterName: fort] Created pod: latency-6667db9f57-ssmtm
+INFO 2023-06-22T06:24:04Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-llfmm
+INFO 2023-06-22T06:24:04Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-ssmtm
+INFO 2023-06-22T06:24:16Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-zd4r5
+INFO 2023-06-22T06:24:28Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-9pl95
+INFO 2023-06-22T06:25:01Z [resource.labels.clusterName: fort] Deleted pod: latency-6667db9f57-vpkrk
